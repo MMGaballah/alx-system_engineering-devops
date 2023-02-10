@@ -1,0 +1,18 @@
+total 68
+drwxr-xr-x 2 0 0  4096 Feb  9 21:30 .
+drwxr-xr-x 4 0 0    60 Feb  8 09:52 ..
+-rwxr--r-- 1 0 0    16 Feb  9 19:21 0-current_working_directory
+-rwxr--r-- 1 0 0    67 Feb  9 19:08 0-current_working_directory.sh
+-rwxr--r-- 1 0 0    18 Feb  9 21:25 10-back
+-rwxr--r-- 1 0 0    15 Feb  9 19:40 1-listit
+-rwxr--r-- 1 0 0    16 Feb  9 20:04 2-bring_me_home
+-rwxr--r-- 1 0 0    18 Feb  9 20:26 3-listfiles
+-rw-r--r-- 1 0 0 12288 Feb  9 20:22 .3-listfiles.swp
+-rwxr--r-- 1 0 0    19 Feb  9 20:36 4-listmorefiles
+-rwxr--r-- 1 0 0    21 Feb  9 20:51 5-listfilesdigitonly
+-rwxr--r-- 1 0 0    42 Feb  9 20:58 6-firstdirectory
+-rwxr--r-- 1 0 0    50 Feb  9 21:06 7-movethatfile
+-rwxr--r-- 1 0 0    45 Feb  9 21:11 8-firstdelete
+-rwxr--r-- 1 0 0    42 Feb  9 21:20 9-firstdirdeletion
+-rw-r--r-- 1 0 0     0 Feb  9 21:30 alx-system_engineering-devops
+-rw-r--r-- 1 0 0     8 Feb  8 09:53 README.md
